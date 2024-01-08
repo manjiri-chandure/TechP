@@ -1,3 +1,6 @@
 # TechP
 just for practice
-welcome to github
+<br>
+welcome to github,
+<br>
+need to use HTML for this file orientation
