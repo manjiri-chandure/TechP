@@ -1,7 +1,7 @@
 # TechP
 just for practice
 <br>
-welcome Manjiri on github,
+welcome Suyash on github,
 <br>
 need to use HTML for this file orientation
 <br>
